@@ -10,9 +10,8 @@ Our team speaks Chinese and English, and if you file an issue with any other lan
 To file an issue:
 
 1. Create a github account or login.
-2. Go to the "Issues" tab. <a href="url"><img src="http://i.imgur.com/5M76VkI.png" align="left" height="48" width="48" ></a>
- ![alt tag](http://i.imgur.com/5M76VkI.png =100x)
-3. You can browse current "closed issues" and "open issues". Open issues are ongoing discussions. ![alt tag](http://i.imgur.com/po6cb7Y.png =108x)
+2. Go to the "Issues" tab. <img src="http://i.imgur.com/5M76VkI.png" align="left" height="100px">
+3. You can browse current "closed issues" and "open issues". Open issues are ongoing discussions. <img src="http://i.imgur.com/po6cb7Y.png" align="left" height="108px">
 4. Use "New Issue" button to create new issue. 
 5. Enter a subject and a detailed description, including the device you're using and explain what's happening. You can drag and drop screenshot directly into the dialogue. ![alt tag](http://i.imgur.com/dsykoWC.png =474x)
 6. Choose the appropriate labels for your issue. ![alt tag](http://i.imgur.com/coYsBDD.png =686x)
